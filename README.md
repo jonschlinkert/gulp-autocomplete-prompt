@@ -10,6 +10,8 @@ Install with [npm](https://www.npmjs.com/):
 $ npm install --save gulp-autocomplete-prompt
 ```
 
+![gulp-autocomplete-prompt example](https://raw.githubusercontent.com/generate/gulp-autocomplete-prompt/master/example.gif)
+
 ## Usage
 
 ```js
